@@ -1,0 +1,18 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "Per adopt application done as frontend master react course",
+  "main": "src/App.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+	"lint": "eslint \"src/**/*.{js,html}\" --quiet",
+    "test": "test"
+  },
+  "author": "Yilmer Avila",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "prettier": "^2.2.1",
+    "eslint-config-prettier": "^8.1.0"
+  }
+}
