@@ -19,5 +19,4 @@ const App = () => {
     </React.StrictMode>
   );
 };
-
 render(<App />, document.getElementById("root"));
